@@ -1,2 +1,26 @@
 #nginx 稳定精简版
 --platform=linux/amd64 nginx:stable-alpine3.19
+
+#mysql
+--platform=linux/amd64 mysql:9.0.1
+
+#mongo
+--platform=linux/amd64 mongo:5.0
+
+#rabbitmq
+--platform=linux/amd64 rabbitmq:3.13.6
+
+#ubuntu
+--platform=linux/amd64 ubuntu:24.10
+
+#alpine A minimal Docker image based on Alpine Linux with a complete package index and only 5 MB in size!
+--platform=linux/amd64 alpine:3.20.2
+
+#elasticsearch
+--platform=linux/amd64 elasticsearch:8.14.3
+
+#memcached
+--platform=linux/amd64 memcached:1.6.29
+
+#redis
+--platform=linux/amd64 redis:7.4.0
