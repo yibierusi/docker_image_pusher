@@ -19,6 +19,12 @@
 #elasticsearch
 --platform=linux/amd64 elasticsearch:8.14.3
 
+#logstash
+--platform=linux/amd64 logstash:8.14.3
+
+#kibana
+--platform=linux/amd64 kibana:8.14.3
+
 #memcached
 --platform=linux/amd64 memcached:1.6.29
 
@@ -27,3 +33,18 @@
 
 #maven
 --platform=linux/amd64 maven:3.9.8
+
+#zookeeper
+--platform=linux/amd64 zookeeper:3.9.2
+
+#nextcloud
+--platform=linux/amd64 nextcloud:29.0.4
+
+#bash
+--platform=linux/amd64 bash:5.2
+
+#solr
+--platform=linux/amd64 solr:9.6.1
+
+#kong
+--platform=linux/amd64 kong:2.8.5
