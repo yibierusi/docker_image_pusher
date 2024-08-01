@@ -1,1 +1,2 @@
-nginx
+#nginx 稳定精简版
+--platform=linux/amd64 nginx:stable-alpine3.19
