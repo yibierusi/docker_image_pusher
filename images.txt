@@ -24,3 +24,6 @@
 
 #redis
 --platform=linux/amd64 redis:7.4.0
+
+#maven
+--platform=linux/amd64 maven:3.9.8
