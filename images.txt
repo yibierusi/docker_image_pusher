@@ -48,3 +48,15 @@
 
 #kong
 --platform=linux/amd64 kong:2.8.5
+
+#minio
+--platform=linux/amd64 minio/minio:RELEASE.2024-07-31T05-46-26Z
+
+#gitlab-ce
+--platform=linux/amd64 gitlab/gitlab-ce:17.2.1-ce.0
+
+#gitlab-runner
+--platform=linux/amd64 gitlab/gitlab-runner:ubuntu
+
+#ddns-go
+--platform=linux/amd64 jeessy/ddns-go:v6.6.7
