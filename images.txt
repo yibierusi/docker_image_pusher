@@ -60,3 +60,6 @@
 
 #ddns-go
 --platform=linux/amd64 jeessy/ddns-go:v6.6.7
+
+#jre
+--platform=linux/amd64 ubuntu/jre:8-22.04_45
