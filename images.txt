@@ -61,9 +61,11 @@
 #ddns-go
 --platform=linux/amd64 jeessy/ddns-go:v6.6.7
 
+#jre
+--platform=linux/amd64 ubuntu/jre:8-22.04_45
 
 #文件快递柜
 --platform=linux/amd64 lanol/filecodebox:beta
 
-#jre
---platform=linux/amd64 ubuntu/jre:8-22.04_45
+#相册
+--platform=linux/amd64 photoprism/photoprism:preview-ce
