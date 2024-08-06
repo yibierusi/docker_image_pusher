@@ -73,4 +73,7 @@
 #短链
 --platform=linux/amd64 yourls:1.9.2
 
+#云笔记 https://blog.laoda.de/archives/docker-compose-install-trilium
+--platform=linux/amd64 zadam/trilium:0.63.7
+
 
