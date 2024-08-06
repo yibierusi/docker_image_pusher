@@ -69,3 +69,8 @@
 
 #相册
 --platform=linux/amd64 photoprism/photoprism:preview-ce
+
+#短链
+--platform=linux/amd64 yourls:1.9.2
+
+
